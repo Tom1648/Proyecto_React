@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import CourseList from './components/CourseList';
+import CourseList from './Components/CourseList';
 
 class App extends React.Component{
   
